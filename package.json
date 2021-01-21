@@ -1,0 +1,27 @@
+{
+  "name": "theglobe",
+  "version": "1.0.0",
+  "description": "JavaScript Three.js Game - kubaszajna",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubaszajna/TheGlobe.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Three.js",
+    "Game"
+  ],
+  "author": "kubaszajna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubaszajna/TheGlobe/issues"
+  },
+  "homepage": "https://github.com/kubaszajna/TheGlobe#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
